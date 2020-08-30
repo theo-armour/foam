@@ -1,5 +1,9 @@
 # Foam
 
+[Foam](https://foambubble.github.io/foam) / [github]( https://github.com/foambubble/foam )
+
+
+
 👋 Welcome to your new Foam Workspace!
 
 ## Getting started
